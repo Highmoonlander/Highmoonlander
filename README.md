@@ -8,13 +8,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=highmoonlander" alt="highmoonlander" /></a> </p>
 
-👯 I’m looking to collaborate on AI, ML projects
-🌱 I’m currently learning Spring/Springboot
-⭐️ Expert in JAVA, C, SQL, Python languages
-🕸️ Web Techs: HTML, CSS, JavaScript
-💬 Ask me about Cars
-⚡I can write code faster than I can make a my sandwich
-- 📫 How to reach me **aryarajvaidya@gmail.com
+- 🌱 I’m currently learning Spring/Springboot<br>
+- ⭐️ Expert in JAVA, C, SQL, Python languages<br>
+- 🕸️ Web Techs: HTML, CSS, JavaScript<br>
+- 👯 I’m looking to collaborate on AI, ML projects<br>
+- 💬 Ask me about Cars<br>
+- ⚡I can write code faster than I can make a my sandwich<br>
+- 📫 How to reach me **aryarajvaidya@gmail.com<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
