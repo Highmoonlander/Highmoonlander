@@ -13,7 +13,7 @@
 - 🕸️ Web Techs: HTML, CSS, JavaScript<br>
 - 👯 I’m looking to collaborate on AI, ML projects<br>
 - 💬 Ask me about Cars<br>
-- ⚡I can write code faster than I can make a my sandwich<br>
+- ⚡I can write code faster than I can make my sandwich<br>
 - 📫 How to reach me **aryarajvaidya@gmail.com<br>
 
 <h3 align="left">Connect with me:</h3>
