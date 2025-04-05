@@ -20,22 +20,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6C5CE7&center=true&vCenter=true&random=false&width=600&lines=Computer+Engineering+Student;Full-Stack+Developer;Algorithm+Enthusiast;Car+Aficionado" alt="Typing SVG" />
 </div>
 
-## <div align="center">✨ About Me</div>
-
-<img align="right" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding Gif" />
-
-<p align="left">
-  I'm a computer engineering student at <b>Vishwakarma Institute of Technology, Pune</b> with a passion for building elegant software solutions. When I'm not coding, you'll find me talking about cars or optimizing algorithms.
-</p>
-
-- 🚀 Currently mastering **Spring/SpringBoot**
-- 💻 Expert in **Java**, **C**, **SQL**, **Python**
-- 🤝 Open to collaborate on **AI & ML projects**
-- 🏎️ Ask me about **Cars** - my other passion!
-- ⚡ Fun fact: **I can write code faster than I can make my sandwich**
-
-<br>
-
 ## <div align="center">🛠️ Tech Stack</div>
 
 <div align="center">
@@ -51,22 +35,6 @@
 
 <br>
 
-## <div align="center">📊 GitHub Activity</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=highmoonlander&bg_color=282a36&color=ff79c6&line=bd93f9&point=f8f8f2&area=true&hide_border=false" width="95%" alt="Activity Graph">
-</div>
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=highmoonlander&show_icons=true&count_private=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=highmoonlander&layout=compact&theme=tokyonight" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=highmoonlander&theme=tokyonight" alt="GitHub Streak Stats" />
-</div>
-
-<br>
 
 ## <div align="center">🏆 Achievements</div>
 
@@ -89,16 +57,14 @@
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
   </a>
 </div>
-
 <br>
-
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
-
-<br>
-<br>
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=highmoonlander&style=for-the-badge&color=blueviolet" alt="Profile views" />
 </div>
