@@ -1,36 +1,108 @@
-[![MasterHead](https://qrangers.com/wp-content/uploads/2021/09/Banner-Introduction-to-3D-Animation.png)
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Arya%20Rajvaidya&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20|%20Problem%20Solver%20|%20Tech%20Enthusiast&descAlignY=55&descAlign=62" width="100%"/>
+</div>
 
-<h1 align="center">Hi 👋, I'm Arya Rajvaidya</h1>
-<h3 align="center">A passionate Software developer from India. I am currently persuing my BTECH degree in Computer Engineering from Vishwakarma Institute of technology, Pune.</h3>
+<div align="center">
+  <a href="mailto:aryarajvaidya@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/aryarajvaidya">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.leetcode.com/aryarajvaidya">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  </a>
+</div>
 
+<br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=highmoonlander&label=Profile%20views&color=0e75b6&style=flat" alt="highmoonlander" /> </p>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6C5CE7&center=true&vCenter=true&random=false&width=600&lines=Computer+Engineering+Student;Full-Stack+Developer;Algorithm+Enthusiast;Car+Aficionado" alt="Typing SVG" />
+</div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=highmoonlander" alt="highmoonlander" /></a> </p>
+## <div align="center">✨ About Me</div>
 
-- 🌱 I’m currently learning Spring/Springboot<br>
-- ⭐️ Expert in JAVA, C, SQL, Python languages<br>
-- 🕸️ Web Techs: HTML, CSS, JavaScript<br>
-- 👯 I’m looking to collaborate on AI, ML projects<br>
-- 💬 Ask me about Cars<br>
-- ⚡I can write code faster than I can make my sandwich<br>
-- 📫 How to reach me **aryarajvaidya@gmail.com<br>
+<img align="right" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding Gif" />
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/aryarajvaidya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aryarajvaidya" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/aryarajvaidya" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="aryarajvaidya" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/aryarajvaidya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="aryarajvaidya" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/aryarajvaidya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aryarajvaidya" height="30" width="40" /></a>
+  I'm a computer engineering student at <b>Vishwakarma Institute of Technology, Pune</b> with a passion for building elegant software solutions. When I'm not coding, you'll find me talking about cars or optimizing algorithms.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
+- 🚀 Currently mastering **Spring/SpringBoot**
+- 💻 Expert in **Java**, **C**, **SQL**, **Python**
+- 🤝 Open to collaborate on **AI & ML projects**
+- 🏎️ Ask me about **Cars** - my other passion!
+- ⚡ Fun fact: **I can write code faster than I can make my sandwich**
 
-<h3 align="left">Stats:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=highmoonlander&show_icons=true&locale=en&layout=compact" alt="highmoonlander" /></p>
+<br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=highmoonlander&show_icons=true&locale=en" alt="highmoonlander" /></p>
+## <div align="center">🛠️ Tech Stack</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=highmoonlander&" alt="highmoonlander" /></p>
+<div align="center">
+  <h3>Languages</h3>
+  <img src="https://skillicons.dev/icons?i=java,rust,js,python,c,cpp,typescript" alt="Languages" />
+  
+  <h3>Web Development</h3>
+  <img src="https://skillicons.dev/icons?i=react,html,css,nodejs,express" alt="Web Development" />
+  
+  <h3>Database & Tools</h3>
+  <img src="https://skillicons.dev/icons?i=mysql,spring,git,linux" alt="Database & Tools" />
+</div>
 
+<br>
+
+## <div align="center">📊 GitHub Activity</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=highmoonlander&bg_color=282a36&color=ff79c6&line=bd93f9&point=f8f8f2&area=true&hide_border=false" width="95%" alt="Activity Graph">
+</div>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=highmoonlander&show_icons=true&count_private=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=highmoonlander&layout=compact&theme=tokyonight" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=highmoonlander&theme=tokyonight" alt="GitHub Streak Stats" />
+</div>
+
+<br>
+
+## <div align="center">🏆 Achievements</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=highmoonlander&theme=tokyonight&no-frame=true&column=7" alt="GitHub Trophies" />
+</div>
+
+<br>
+
+## <div align="center">💼 Coding Profiles</div>
+
+<div align="center">
+  <a href="https://www.hackerrank.com/aryarajvaidya">
+    <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
+  </a>
+  <a href="https://www.codechef.com/users/aryarajvaidya">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
+  </a>
+  <a href="https://www.leetcode.com/aryarajvaidya">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+</div>
+
+<br>
+<br>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=highmoonlander&style=for-the-badge&color=blueviolet" alt="Profile views" />
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" width="100%"/>
+</div>
